@@ -1,0 +1,31 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Colorsublime - Themes/MarsPeacock.tmTheme",
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Liberation Mono Bold",
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"show_definitions": false,
+	"show_full_path": true,
+	"show_line_endings": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}
